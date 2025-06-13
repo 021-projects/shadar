@@ -41,7 +41,9 @@
     <% if (preset.i18n) { %>"@intlify/unplugin-vue-i18n": "^4.0.0",<% } %>
     "@quasar/app-vite": "^2.1.0",
     "autoprefixer": "^10.4.2",
-    "typescript": "~5.5.3"
+    "typescript": "~5.5.3",
+    "tailwindcss": "^4.1.8",
+    "@tailwindcss/postcss": "^4.1.8"
   },
   "engines": {
     "node": "^28 || ^26 || ^24 || ^22 || ^20 || ^18",
